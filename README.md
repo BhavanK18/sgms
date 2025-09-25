@@ -6,7 +6,7 @@ This project is designed to demonstrate **Core Java concepts** such as **Object-
 ---
 
 ## 📑 Table of Contents
-- [Features](#features)
+- [Features](#Features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Grading Logic](#grading-logic)
