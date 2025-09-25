@@ -7,13 +7,13 @@ This project is designed to demonstrate **Core Java concepts** such as **Object-
 
 ## 📑 Table of Contents
 - [Features](#-features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Grading Logic](#grading-logic)
-- [Installation & Usage](#installation--usage)
-- [Sample Run](#sample-run)
-- [Future Enhancements](#future-enhancements)
-- [Learning Outcomes](#learning-outcomes)
+- [Technologies Used](#%EF%B8%8F-technologies-used)
+- [Project Structure](#-project-structure)
+- [Grading Logic](#-grading-logic)
+- [Installation & Usage](#-installation--usage)
+- [Sample Run](#%EF%B8%8F-sample-run)
+- [Future Enhancements](#-future-enhancements)
+- [Learning Outcomes](#-learning-outcomes)
 
 ---
 
